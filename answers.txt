@@ -1,1 +1,6 @@
+1. Picobot is in state 0, sees that it can't move north and west is empty, and it moves to the west in state 0. Picobot is in state 1, sees that north and south are empty, and moves north and changes to state 2.
+
+2. The "*" means that there is either a wall or empty space, while "x" means that there is an empty space.
+
+3. 0 Nx** -> E 0
 
